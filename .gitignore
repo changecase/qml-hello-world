@@ -1,0 +1,12 @@
+# Ignore the compiled application
+*.app
+
+# Ignore compiled files
+*.o
+Makefile
+
+# Ignore temp files
+.DS_Store
+*.swp
+*.swo
+.qmake.stash
